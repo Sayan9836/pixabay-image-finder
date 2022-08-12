@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pixabay-image-finder/static/css/main.073c9b0a.css",
+    "main.js": "/pixabay-image-finder/static/js/main.5fee9411.js",
+    "static/js/787.855448df.chunk.js": "/pixabay-image-finder/static/js/787.855448df.chunk.js",
+    "index.html": "/pixabay-image-finder/index.html",
+    "main.073c9b0a.css.map": "/pixabay-image-finder/static/css/main.073c9b0a.css.map",
+    "main.5fee9411.js.map": "/pixabay-image-finder/static/js/main.5fee9411.js.map",
+    "787.855448df.chunk.js.map": "/pixabay-image-finder/static/js/787.855448df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5fee9411.js"
+  ]
+}
